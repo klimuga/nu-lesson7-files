@@ -49,3 +49,4 @@ with open('person.yaml', 'w') as f:
 with open('person.yaml', 'r') as f:
     result = yaml.load(f)
     print(result)
+
